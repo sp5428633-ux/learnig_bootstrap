@@ -1,0 +1,19 @@
+.f_logo{
+            width: 100px;
+            height: 100px;
+        }
+
+.social{
+    font-size: x-large;
+    margin-right: 15px;
+    color: red;
+}
+.bi-youtube{
+    color: red;
+}
+.bi-facebook{
+    color: blue;
+}
+.bi-instagram{
+    color: rgb(155, 75, 88);
+}
